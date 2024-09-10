@@ -1,9 +1,6 @@
 ## Credentials
 credentials.json
 
-## Exclude data from source control by default ##
-/data/
-
 ## Compressed Files ##
 *.zip
 
@@ -28,9 +25,9 @@ credentials.json
 
 ### Data ###
 *.db
-*.csv
+# *.csv
 *.tsv
-*.json
+# *.json
 *.geojson
 *.dat
 *.efx
