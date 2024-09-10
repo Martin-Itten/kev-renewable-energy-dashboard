@@ -28,7 +28,7 @@ credentials.json
 # *.csv
 *.tsv
 # *.json
-*.geojson
+# *.geojson
 *.dat
 *.efx
 *.gbr
